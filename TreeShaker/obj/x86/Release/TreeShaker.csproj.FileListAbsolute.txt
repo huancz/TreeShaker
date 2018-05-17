@@ -1,0 +1,5 @@
+C:\Users\Thomas\source\repos\TreeShaker\TreeShaker\obj\x86\Release\TreeShaker.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\TreeShaker\TreeShaker\bin\x86\Release\TreeShaker.dll
+C:\Users\Thomas\source\repos\TreeShaker\TreeShaker\bin\x86\Release\TreeShaker.pdb
+C:\Users\Thomas\source\repos\TreeShaker\TreeShaker\obj\x86\Release\TreeShaker.dll
+C:\Users\Thomas\source\repos\TreeShaker\TreeShaker\obj\x86\Release\TreeShaker.pdb
