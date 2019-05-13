@@ -4,3 +4,8 @@ C:\Users\Thomas\source\repos\TreeShaker\TreeShaker\obj\Debug\TreeShaker.csprojAs
 C:\Users\Thomas\source\repos\TreeShaker\TreeShaker\obj\Debug\TreeShaker.csproj.CoreCompileInputs.cache
 C:\Users\Thomas\source\repos\TreeShaker\TreeShaker\obj\Debug\TreeShaker.dll
 C:\Users\Thomas\source\repos\TreeShaker\TreeShaker\obj\Debug\TreeShaker.pdb
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\TreeShaker\TreeShaker\obj\Debug\TreeShaker.csproj.CoreCompileInputs.cache
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\TreeShaker\TreeShaker\bin\Debug\TreeShaker.dll
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\TreeShaker\TreeShaker\bin\Debug\TreeShaker.pdb
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\TreeShaker\TreeShaker\obj\Debug\TreeShaker.dll
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\TreeShaker\TreeShaker\obj\Debug\TreeShaker.pdb
