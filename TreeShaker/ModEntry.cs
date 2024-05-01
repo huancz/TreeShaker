@@ -35,29 +35,35 @@ namespace TreeShaker
                     foreach (KeyValuePair<Vector2, TerrainFeature> pair in location.terrainFeatures.Pairs)
                     {
                         Vector2 tile = pair.Key;
-                        if (!(pair.Value is Tree tree))
-
+                        var tree = pair.Value as Tree;
+                        if (tree == null)
+                        {
                             continue;
+                        }
+                        if (tree.growthStage.Value > Tree.seedStage && !tree.hasSeed.Value)
+                        {
+                            continue;
+                        }
                         {                            
                             bool added = false;
                             switch (tree.treeType.Value)
                             {
-                                case 1:
-                                    Item a = chest.addItem(new SObject(309, 1));
+                                case "1": // oak
+                                    Item a = chest.addItem(new SObject("309", 1));
                                     if (a == null)
                                     {
                                         added = true;
                                     }
                                     break;
-                                case 2:
-                                    Item m = chest.addItem(new SObject(310, 1));
+                                case "2": // maple
+                                    Item m = chest.addItem(new SObject("310", 1));
                                     if (m == null)
                                     {
                                         added = true;
                                     }
                                     break;
-                                case 3:
-                                    Item p = chest.addItem(new SObject(311, 1));
+                                case "3": // pine
+                                    Item p = chest.addItem(new SObject("311", 1));
                                     if (p == null)
                                     {
                                         added = true;
